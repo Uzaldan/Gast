@@ -1,7 +1,6 @@
 Using tools from:
-https://github.com/Kiizon/flippscrape - This will create a set of data for Walmart and Freshco specfically for my own use currently
+https://github.com/Kiizon/flippscrape - This tool satisfies the requirements of grabbing data from all of the grocery sites just need to add the merchant name listed on the flipp site
 
-https://github.com/FriendlyUser/flipp_flyer_parser - This will be used to parse the data that save on foods has since that is referenced in their blog and the other tool doesn't seem to collect save on's data
 
 
 I plan to make a tool for collating sales over the long term from grocery stores in my area.
